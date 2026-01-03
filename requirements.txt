@@ -1,0 +1,27 @@
+# Core
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+
+# Backend
+fastapi>=0.110.0
+uvicorn>=0.27.0
+
+# Frontend
+streamlit>=1.32.0
+requests>=2.31.0
+
+# LangChain / LangGraph (Agentic AI)
+langchain>=0.2.0
+langchain-core>=0.2.0
+langgraph>=0.0.40
+
+# LLM Providers
+langchain-groq>=0.1.5
+langchain-openai>=0.1.7
+openai>=1.14.0
+
+# Tools
+langchain-tavily>=0.1.2
+
+# Utilities
+typing-extensions>=4.10.0
